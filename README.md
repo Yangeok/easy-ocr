@@ -17,3 +17,4 @@ docker-compose down
 
 - grouping similer files together
 - using flask to web router
+- installing nvidia-smi 
