@@ -13,8 +13,12 @@ docker-compose up --build
 docker-compose down
 ```
 
+## Usage
+
+- Insert image files into the `images` folder.
+- Start python script.
+- Then you can get grouped text files by file name from `output` folder.
+
 ## Todo
 
-- grouping similer files together
-- using flask to web router
-- installing nvidia-smi 
+- Installing nvidia-smi 
