@@ -3,6 +3,9 @@
 ## Installation & Usage
 
 ```sh
+# type it before you start container
+mkdir images output
+
 # using to generate text file
 docker-compose up
 
